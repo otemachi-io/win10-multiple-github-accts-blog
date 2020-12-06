@@ -1,6 +1,6 @@
 # SSH Keys, multiple GitHub accounts, and VSCode on Windows 10. #
 
-This is git repository for with the resources for the blog at https://philliphardynz.com/win10-mulitple-github-accounts-and-vscode/
+This git repository is for the resources used on a blog.  
 
 *There is no security issue here:*
 
